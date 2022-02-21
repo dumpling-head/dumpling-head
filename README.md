@@ -5,4 +5,4 @@
 -->
 <p>I'm an undergraduate student in mathematics studying computer science in my free time. In a perpetual state of confusion.</br>
 ✨ <b>working knowledge of:</b> python, html5, css, javascript</br>
-🌱 <b>current topic(s) of study:</b> data structures, functional programming, computer architecture</p>
+🌱 <b>current topic(s) of study:</b> data structures, functional programming, linear algebra, multivariate calculus</p>
